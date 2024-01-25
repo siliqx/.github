@@ -1,6 +1,6 @@
 # Welcome to [Siliqx Studio](http://github.com/siliqx)
 
-![Siliqx Studio Wallpaper](https://cdn.discordapp.com/attachments/899426054547079201/1198694184840859729/siliqx-wallpapper-new.png?ex=65bfd5f4&is=65ad60f4&hm=f9c97d376ac9f42c64851d56a74356f8ed71b6bed422ded40b690af0b2f14a15&)
+![Siliqx Studio Wallpaper](https://cdn.discordapp.com/attachments/899426054547079201/1199886434975367248/siliqx-background.png?ex=65c42c52&is=65b1b752&hm=1d4d75ab36f0cbfba23e3a2bfac504927a58595b1f523da23557252d8f6c8da1&)
 
 ### * About Us ✩‧₊˚
 
