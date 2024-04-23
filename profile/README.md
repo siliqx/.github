@@ -19,4 +19,4 @@ Greetings from [Siliqx Studio](http://github.com/siliqx), a visionary tech start
 
 ## * Contact ✩‧₊˚
 
-Reach the author anytime at <mirusausiliq@gmail.com>.
+Reach the author anytime at <mirusausiliq@gmail.com>. 
