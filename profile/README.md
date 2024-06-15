@@ -1,6 +1,6 @@
 # Welcome to [Siliqx Studio](http://github.com/siliqx)
 
-![Siliqx Studio Wallpaper](./profile/images/siliqx-background.png)
+![Siliqx Studio Wallpaper](./images/siliqx-background.png)
 
 ## * About Us ✩‧₊˚
 
